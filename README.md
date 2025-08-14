@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Name is ** Sanjay Patel **
+## My Name is **Sanjay Patel**
 
 ### About Me 
 - I am a B. Tech student doing ECSc (Electronics and Computer Science Engineering) from KIIT University
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Open to work/project.
 
 ### Tech Stack
+![My Image](https://media.licdn.com/dms/image/v2/D5603AQHI2jLEPE2pkg/profile-displayphoto-crop_800_800/B56ZhiD1RxHcAI-/0/1753991829737?e=1758153600&v=beta&t=V67bZ4tGDIGkFCMVEJvC3bz4HUCMGWBrAVLEUICy7sc)
 
 ### Github Stats
 
