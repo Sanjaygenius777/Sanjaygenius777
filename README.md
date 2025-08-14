@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Name is ** Sanjay Patel **
+
+### About Me 
+- I am a B. Tech student doing ECSc (Electronics and Computer Science Engineering) from KIIT University
+- I am a AI/ML enthusiast and aspiring to be a AI/ML developer.
+- I am done many projects on web and ml.
+- Open to work/project.
+
+### Tech Stack
+
+### Github Stats
+
+### Socials
